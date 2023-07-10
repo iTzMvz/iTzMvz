@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="left">Ladies And Gentlemen</h2>
+<div>
 
-<!--
-**iTzMvz/iTzMvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently studying at <a href="http://araquari.ifc.edu.br%22%3Eifc/</a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/itzmvz%22%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasperaza&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmvz&layout=compact&langs_count=7&theme=dark%22/%3E
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/itzmvz/itzmvz/blob/output/github-contribution-grid-snake.svg)
