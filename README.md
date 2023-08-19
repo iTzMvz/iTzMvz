@@ -13,7 +13,7 @@
 </div>
 
 <br>
-   <img alt="iTzMvz" src="https://github-readme-streak-stats.herokuapp.com?user=Toco020&theme=chartreuse-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true" style="max-width:100%;" height="190em">
+   <img alt="iTzMvz" src="https://github-readme-streak-stats.herokuapp.com?user=Toco020&theme=chartreuse-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true" style="max-width:100%; center" height="190em">
   
  </a>
 </div>
