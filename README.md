@@ -14,7 +14,7 @@
 
 <br>
 
-   <img alt="iTzMvz" src="https://github-readme-streak-stats.herokuapp.com?user=Toco020&theme=chartreuse-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true" style="max-width:100%;" height="190em" align="center">
+   <img alt="iTzMvz" src="https://github-readme-streak-stats.herokuapp.com?user=iTzMvz&theme=chartreuse-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D&hide_border=true" style="max-width:100%;" height="190em" align="center">
   
  </a>
 </div>
