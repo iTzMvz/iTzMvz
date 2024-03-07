@@ -18,7 +18,15 @@
   
 </div>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/itzmvz/)
+<p><img src="https://profile-counter.glitch.me/{itzmvz}/count.svg" /></p>
+
+</div>
+
 ##
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iTzMvz&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/itzmvz/itzmvz)
 
 <div style="display: inline_block width: 45%"><br>
